@@ -1703,4 +1703,4 @@ Hope this helped!
 
 **Remember the ⭐**
 
-My blog: 
+[My blog](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-100-268g)
