@@ -1691,16 +1691,16 @@ This article was just published, but feel free to add your own sources / request
  
 Here at dev.to - [Ultimate Linux Cheat Sheet](https://dev.to/forcommunity/ultimate-linux-cheat-sheet-4gm5) - By Justin Varghese
 
----
-
 Ps: [I add the web dev checklist!](https://www.toptal.com/developers/webdevchecklist)
 
-Hope this helped!
+
 
 ---
 
 <a name="bottom"></a>
 
----
+Hope this helped!
 
 **Remember the ⭐**
+
+My blog: 
