@@ -1243,7 +1243,6 @@ Table of content:
 4. [Swift](#4d)
 5. [React](#4e)
 6. [Go to Top - 🔝](#top)
-{% endcollapsible %}
 
 ---
 
