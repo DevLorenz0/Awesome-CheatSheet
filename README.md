@@ -40,7 +40,7 @@ Table of content:
 13. [PHP](#2l)
 
 
-📓 - [Databases](#3) %} 
+📓 - [Databases](#3) 
 1. [SQL](#3a)
  * [MySQL](#3aa)
  * [PostgreSQL](#3ab)
@@ -57,7 +57,7 @@ Table of content:
 3. [Android studio](#4c)
 4. [Swift](#4d)
 5. [React](#4e)
-{% endcollapsible %}
+
 
 🖲 - [Version control](#5) 
 1. [Git](#5a)
@@ -102,7 +102,6 @@ Table of elements:
 4. [Javascript](#1d)
 5. [Javascript based frameworks (Angular, Vue, React + Others)](#frameworks)
 6. [Wordpress](#1e)
-{% endcollapsible %}
 
 ### HTML<a name="1a"></a>
 
