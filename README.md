@@ -5,15 +5,9 @@ The ultimate Cheat sheets compilation (200+) - 🔥🎁 / Roadmap to dev 🚀
 
 The most complete cheat sheet compilation you can find online!
 
-> PS: It took me around 8 hours to complete the whole article (the two parts) - So please **remember the like ❤️ and maybe super like🦄**
+> PS: It took me more than 10 hours to  create this compilation - So please **remember to star 🌟 and maybe fork 🍴 the repo**
 
-🔖 - Bookmark the article to save it 
-
-This is part 1 - [Feel free to **open** part 2 in a new tab](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-
-Read also!
-
-{% link https://dev.to/devlorenzo/best-discounts-for-devs-1683 %}
+Article version: https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-100-268g
 
 ---
 
@@ -21,16 +15,16 @@ Table of content:
 
 -- Part 1 -- (This part)
 
-{% collapsible 💻 - [Front End](#1) %} 
+💻 - [Front End](#1) 
 1. [HTML](#1a)
 2. [CSS](#1b)
 3. [Bootstrap](#1c) + [Bootstrap alternative](#1c+)
 4. [Javascript](#1d)
 5. [Javascript based frameworks (Angular, Vue, React + Others)](#frameworks)
 6. [WordPress](#1e)
-{% endcollapsible %}
 
-{% collapsible 📕 - [Back End](#2) %} 
+
+📕 - [Back End](#2) 
 1. [Python](#2a)
 2. [+ Django](#2b)
 3. [Node](#2c)
@@ -44,9 +38,9 @@ Table of content:
 11. [Rust](#2j)
 12. [C#](#2k)
 13. [PHP](#2l)
-{% endcollapsible %}
 
-{% collapsible 📓 - [Databases](#3) %} 
+
+📓 - [Databases](#3) %} 
 1. [SQL](#3a)
  * [MySQL](#3aa)
  * [PostgreSQL](#3ab)
@@ -55,44 +49,45 @@ Table of content:
  * [MongoDB](#3ba)
  * [Cassandra](#3bb)
  * [Redis](#3bc)
+
+
+📱 - [Mobile apps](#4) 
+1. [Java](#4a)
+2. [Kotlin](#4b)
+3. [Android studio](#4c)
+4. [Swift](#4d)
+5. [React](#4e)
 {% endcollapsible %}
 
-[-- Part 2 --](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
+🖲 - [Version control](#5) 
+1. [Git](#5a)
+2. [GitHub](#5b)
 
-{% collapsible 📱 - [Mobile apps](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he) %} 
-1. [Java](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-2. [Kotlin](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-3. [Android studio](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-4. [Swift](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-5. [React](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-{% endcollapsible %}
 
-{% collapsible 🖲 - [Version control](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he) %} 
-1. [Git](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-2. [GitHub](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-{% endcollapsible %}
+📗 - [MDN / W3school](#6) 
+1. [Learn web development](#6a)
+2. [HTML](#6b)
+3. [CSS](#6c)
+4. [JavaScript](#6d)
+5. [HTTP](#6f)
+6. [APIs](#6g)
+7. [Others](#6h)
 
-{% collapsible 📗 - [MDN / W3school](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he) %} 
-1. [Learn web development](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-2. [HTML](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-3. [CSS](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-4. [JavaScript](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-5. [HTTP](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-6. [APIs](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-6. [Others](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-{% endcollapsible %}
 
-{% collapsible 🚀 - [Extra](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he) %} 
-1. [LUA (game development)](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-2. [R (data science)](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-3. [Scala (data science)](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-4. [Dart](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-5. [Your sources](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-6. [Chrome Extentions](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-7. [VS code Setup](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he)
-{% endcollapsible %}
+🚀 - [Extra](#7) 
+1. [LUA (game development)](#7a)
+2. [R (data science)](#7b)
+3. [Scala (data science)](#7c)
+4. [Dart](#7d)
+5. [Chrome Extentions](#7e)
+6. [VS code Setup](#7f)
+7. [Your sources](#7g)
+  * [C and C++](#7g1)
+  * [Your cheat sheets](#7g2)
+      * [Linux](#7g2a)
 
-**Remember the like ❤️❤️❤️**
+
+**Remember the ⭐**
 
 [Go to Bottom - ⬇️](#bottom)
 
@@ -100,7 +95,7 @@ Table of content:
 
 ## 💻 - Front End<a name="1"></a>
 
-{% collapsible Table of elements: %} 
+Table of elements:
 1. [HTML](#1a)
 2. [CSS](#1b)
 3. [Bootstrap](#1c) + [Bootstrap alternative](#1c+)
@@ -111,7 +106,7 @@ Table of content:
 
 ### HTML<a name="1a"></a>
 
-{% collapsible Table of content %} 
+Table of content:
 1. [Complete HTML cheat sheets](#1aa)
 2. [HTML tools](#1ab)
 3. [HTML tags](#1ac)
@@ -121,15 +116,12 @@ Table of content:
 * [Pug](#1af1)
 * [Haml](#1af2)
 * [Slim](#1af3)
-{% endcollapsible %}
 
 ---
 
 #### Complete HTML cheat sheets:<a name="1aa"></a>
 
 [My HTML cheat sheet article 🙃](https://dev.to/devlorenzo/html-tags-cheat-sheet-pip)
-
-{% link https://dev.to/devlorenzo/html-tags-cheat-sheet-pip %}
 
 -
 
@@ -167,7 +159,7 @@ Table of content:
 
 [By "HTML cheat sheet"](https://htmlcheatsheet.com/)
 
-{% collapsible Tools %} 
+Tools: 
 * Color / character / emoji picker
 * Tags cheat sheet
 * Attribute cheat sheet
@@ -176,7 +168,6 @@ Table of content:
 * iframe generator
 * Table / link / image / list generator
 * blank page / page structure
-{% endcollapsible %}
 
 -
 
@@ -203,8 +194,6 @@ Table of content:
 #### HTML Tags:<a name="1ac"></a>
 
 [Dev.to article](https://dev.to/devlorenzo/html-tags-cheat-sheet-pip)
-
-{% link https://dev.to/devlorenzo/html-tags-cheat-sheet-pip %}
 
 -
 
@@ -284,7 +273,7 @@ Table of content:
 
 ### CSS<a name="1b"></a>
 
-{% collapsible Table of content %} 
+Table of content: 
 1. [How to write better CSS](#1ba)
 2. [Complete CSS cheat sheets](#1bb)
 3. [CSS tools](#1bc)
@@ -296,15 +285,12 @@ Table of content:
 * [Less](#1bh1)
 * [Sass](#1bh2)
 * [Stylus](#1bh3)
-{% endcollapsible %}
 
 ---
 
 #### **How to write better CSS:**<a name="1ba"></a>
 
 [Dev.to article](https://dev.to/devlorenzo/how-to-write-css-like-a-pro-4glj)
-
-{% link https://dev.to/devlorenzo/how-to-write-css-like-a-pro-4glj %}
 
 [Go to Top - 🔝](#top)
 
@@ -530,7 +516,7 @@ Here at dev.to - [FlexBox Cheat Sheets in 2021 || CSS 2021](https://dev.to/joysh
 
 ### Javascript<a name="1d"></a>
 
-{% collapsible Table of content %} 
+Table of content:
 1. [Complete Javascript cheat sheets](#1da)
 2. [JS promises](#1db)
 3. [JS Arrays](#1dc)
@@ -539,7 +525,6 @@ Here at dev.to - [FlexBox Cheat Sheets in 2021 || CSS 2021](https://dev.to/joysh
 * [CoffeScript](#1df1)
 * [EJS](#1df2)
 * [Babel](#1df3)
-{% endcollapsible %}
 
 ---
 
@@ -699,7 +684,7 @@ Here at dev.to - [FlexBox Cheat Sheets in 2021 || CSS 2021](https://dev.to/joysh
 
 ## 📕 - Back End<a name="2"></a>
 
-{% collapsible Table of content %} 
+Table of content:
 1. [Python](#2a)
 2. [+ Django](#2b)
 3. [Node](#2c)
@@ -714,7 +699,6 @@ Here at dev.to - [FlexBox Cheat Sheets in 2021 || CSS 2021](https://dev.to/joysh
 12. [C#](#2k)
 13. [PHP](#2l)
 14. [Go to Top - 🔝](#top)
-{% endcollapsible %}
 
 ### Python<a name="2a"></a>
 
@@ -1089,7 +1073,7 @@ Here at dev.to - [FlexBox Cheat Sheets in 2021 || CSS 2021](https://dev.to/joysh
 
 ## 📓 - Databases<a name="3"></a>
 
-{% collapsible Table of content %} 
+Table of content:
 1. [SQL](#3a)
  * [MySQL](#3aa)
  * [PostgreSQL](#3ab)
@@ -1099,7 +1083,6 @@ Here at dev.to - [FlexBox Cheat Sheets in 2021 || CSS 2021](https://dev.to/joysh
  * [Cassandra](#3bb)
  * [Redis](#3bc)
 3. [Go to Top - 🔝](#top)
-{% endcollapsible %}
 
 ---
 
@@ -1252,9 +1235,466 @@ Here at dev.to - [FlexBox Cheat Sheets in 2021 || CSS 2021](https://dev.to/joysh
 
 ---
 
-Available at [part 2](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he): Mobile App / Version Control / MDN / Extra
+## 📱 - Mobile apps<a name="4"></a>
 
-{% link https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-2-53he %}
+{% collapsible Table of content %} 
+1. [Java](#4a)
+2. [Kotlin](#4b)
+3. [Android studio](#4c)
+4. [Swift](#4d)
+5. [React](#4e)
+6. [Go to Top - 🔝](#top)
+{% endcollapsible %}
+
+---
+
+### Java<a name="4a"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tqx2eecxwj6b3v6e5f3i.png)
+ 
+[By hackr.io](https://hackr.io/blog/java-cheat-sheet)
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/asq58cau1cgvdyw1ci9n.png) 
+
+[By princeton](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kyqm1t06wy5hsoyxtdri.png) 
+
+[By programming with mosh - PDF version](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - 18 pages
+
+-
+
+[By edureka](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
+
+[Go to Top - 🔝](#top)
+
+---
+
+### Kotlin<a name="4a"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8nidemckfemzida5ju5g.png) 
+
+[By Kotlin academy - at medium](https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a)
+
+-
+
+[By raywenderlich.com](https://www.raywenderlich.com/6362971-kotlin-cheat-sheet-and-quick-reference)
+
+> [PDF Version](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf)
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zvnestu8150hy3uo3hae.png) 
+
+[By dev hints](https://devhints.io/kotlin)
+
+-
+
+[By koenig-media](https://koenig-media.raywenderlich.com/uploads/2018/08/RW_Kotlin_Cheatsheet_1_0.pdf)
+
+-
+
+[Kotlin playground](https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS40LjMwIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsImpzQ29kZSI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS4gXG4gKiBwbGF5LmtvdGxpbmxhbmcub3JnIFxuICovXG5cbmZ1biBtYWluKCkge1xuICAgIHByaW50bG4oXCJIZWxsbywgd29ybGQhISFcIilcbn0ifQ==)
+
+[Go to Top - 🔝](#top)
+
+---
+
+### Android Studio<a name="4a"></a>
+
+#### Schortcuts:
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gzmy4ver6i1qtxmytsmi.png)
+
+[At cheatography](https://cheatography.com/kekc42/cheat-sheets/android-studio-windows-linux/)
+ 
+---
+
+[Android studio Docs](https://developer.android.com/training/testing/espresso/cheat-sheet)
+
+-
+
+[By Calvin alexander - notes](https://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
+
+-
+
+[By dummies.com - series of articles](https://www.dummies.com/web-design-development/mobile-apps/android-apps/android-application-development-for-dummies-cheat-sheet/)
+
+[Go to Top - 🔝](#top)
+
+---
+
+### Swift<a name="4a"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g9pacvt79rj9dvik70kc.png) 
+
+[Swift docs](https://swift.org/documentation/)
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ytb0g25i8d5vvbfc8ija.png) 
+
+[By raywenderlich](https://www.raywenderlich.com/6362977-swift-5-1-cheat-sheet-and-quick-reference)
+
+> [PDF Version](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Swift-5.1-Cheatsheet-1.0.1.pdf)
+
+-
+
+[By code with chris](https://codewithchris.com/swift-cheat-sheet/)
+
+[By learn app making - at GitHub](https://github.com/reinder42/SwiftCheatsheet)
+
+[Go to Top - 🔝](#top)
+
+---
+
+### React / React Native<a name="4a"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ekeqhraf5y8l5e6ixec3.png) 
+
+[By dev hints](https://devhints.io/react)
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ywu9tvlpf1461staj5hw.png)
+ 
+[At GitHub: React + Typescript cheat sheet](https://github.com/typescript-cheatsheets/react)
+
+-
+
+[By react cheat sheet.com](https://reactcheatsheet.com/)
+
+[Go to Top - 🔝](#top)
+
+---
+
+## 🖲 - Version Control<a name="5"></a>
+
+Table of content:
+1. [Git](#5a)
+2. [GitHub](#5b)
+3. [Go to Top - 🔝](#top)
+
+---
+
+### Git<a name="5a"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j7fa8e5rexgjb7e7ore3.png) 
+
+[By ](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) 
+
+
+> [PDF download](https://www.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m23qk68po9efoy025e30.png) 
+
+[By gitlab - PDF \Version](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) 
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/winru93bjj4mdxqziqh4.png) 
+
+[By git-tower.com](https://www.git-tower.com/blog/git-cheat-sheet/) 
+
+-
+
+[Post at medium](https://towardsdatascience.com/the-git-cheat-sheet-5858865457ef)
+
+[Go to Top - 🔝](#top)
+
+---
+
+### GitHub<a name="5b"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nariagwy1jxuit0axrhy.png) 
+
+[By education.github.com](https://education.github.com/git-cheat-sheet-education.pdf) 
+
+-
+
+[GitHub lab - Course: Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) 
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bhxzkoveq80sqcnyyryj.png) 
+
+[Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
+
+[Go to Top - 🔝](#top)
+
+---
+
+## 📗 - Mozilla Developer Network / W3school<a name="6"></a>
+
+Table of content:
+1. [Learn web development](#6a)
+2. [HTML](#6b)
+3. [CSS](#6c)
+4. [JavaScript](#6d)
+5. [HTTP](#6f)
+6. [APIs](#6g)
+7. [Go to Top - 🔝](#top)
+
+---
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0fwkeu56fedh8udm7vu3.png)
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0774ra7ykupw5g24uzn6.png)  
+
+#### Web development<a name="6a"></a>
+
+- [Link](https://developer.mozilla.org/en-US/docs/Learn)
+
+---
+
+#### HTML<a name="6b"></a>
+
+- [Link](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+- [W3school](https://www.w3schools.in/category/html-tutorial/)
+
+---
+
+#### CSS<a name="6c"></a>
+
+- [Link](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+- [W3school](https://www.w3schools.in/css-tutorial/)
+
+- [W3school - Bootstrap](https://www.w3schools.in/category/bootstrap4/)
+
+---
+
+#### Javascript<a name="6d"></a>
+
+- [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+#### HTTP<a name="6f"></a>
+
+- [Link](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+---
+
+#### APIs<a name="6g"></a>
+
+- [Link](https://developer.mozilla.org/en-US/docs/Web/API)
+
+#### Others<a name="6h"></a>
+
+W3school:
+- [Wordpress](https://www.w3schools.in/wordpress-tutorial/)
+- [Java](https://www.w3schools.in/java-tutorial/)
+- [C](https://www.w3schools.in/c-tutorial/)
+- [C++](https://www.w3schools.in/cplusplus-tutorial/)
+- [Python](https://www.w3schools.in/python-tutorial/)
+- [PHP](https://www.w3schools.in/category/php/)
+- [Laravel](https://www.w3schools.in/category/laravel-tutorial/)
+- [R](https://www.w3schools.in/category/r/)
+- [Cloud computing](https://www.w3schools.in/category/cloud-computing/)
+- [Software testing](https://www.w3schools.in/category/software-testing/)
+
+[Go to Top - 🔝](#top)
+
+---
+
+## 🚀 - Extra<a name="7"></a>
+
+Table of content:
+1. [LUA for game development](#7a)
+2. [R (for data science)](#7b)
+3. [Scala (for data science)](#7c)
+4. [Dart](#7d)
+4. [C and C++](#7d)
+5. [Your sources](#7e)
+6. [Go to Top - 🔝](#top)
+
+---
+
+### LUA<a name="7a"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kda75i36y125vico3ixp.png) 
+
+[By dev hints](https://devhints.io/lua) 
+
+-
+
+[At GitHub](https://gist.github.com/doches/2219649) 
+
+[Go to Top - 🔝](#top)
+
+---
+
+### R<a name="7b"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xcv817kucxn9011ywxmh.png)
+ 
+
+[By Rstudio](https://rstudio.com/wp-content/uploads/2019/01/Cheatsheets_2019.pdf) 
+
+-
+
+[R for dummies - By dummies.com - Article](https://www.dummies.com/programming/r/r-for-dummies-cheat-sheet/) 
+
+[Go to Top - 🔝](#top)
+
+---
+
+### Scala<a name="7c"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/47zr7u92f1qrs4ff07m7.png)
+
+[Scala docs](https://docs.scala-lang.org/cheatsheets/index.html) 
+
+-
+
+[At GitHub](https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9) 
+
+[Go to Top - 🔝](#top)
+
+---
+
+### Dart (for Flutter)<a name="7d"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uf3lkg49wjlwcmi7qx17.png) 
+
+[Docs - dart.dev](https://dart.dev/codelabs/dart-cheatsheet) 
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qb3fndw0a6f12c490fj5.png) 
+
+[By raywenderlich](https://www.raywenderlich.com/4482580-dart-2-cheat-sheet-and-quick-reference-2019) 
+
+> [PDF Version](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf)
+
+[Go to Top - 🔝](#top)
+
+---
+
+### Chrome Extentions<a name="7e"></a>
+
+My Google Chrome extensions:
+Grepper → Allow you to save code 
+Shortcuts for google → Open google apps with a click
+Video Speed Controller → Allow you to control the speed of a video with shortcuts and to overcome the 2x speed  
+Code Line Daily → every day a line of code in your browser (HTML, CSS, and Javascript)
+Volume Manager → Manage the volume of a tab
+VisBug → Open source web design debug tools built with JavaScript: "a FireBug for designers".
+Better-OneTab → Allow you to manage and save your tabs
+Grammarly for chrome → Correct my English 😀 
+Color Zilla → Pick up a color from any web page and copy the hex
+What Font → Check the font of any web page.
+Dimension → Check the dimensions (in pixels) of elements / their distance
+Lorem Ipsum Generator → Generate lorem ipsum test quickly
+CSS viewer → CSS property viewer
+Window Resizer → Allow you to resize the web page (for [responsive webpages](https://dev.to/devlorenzo/css-how-to-make-a-website-responsive-19kg))
+Web Developer → Adds a toolbar button with various web developer tools.
+* You can also install an Ad Blocker
+
+[Open this article to access the othees extensions](https://dev.to/devlorenzo/top-google-chrome-extensions-for-devs-2mkf)
+
+---
+
+### VS code Setup<a name="7f"></a>
+
+Theme → One Dark Pro  
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ku67cn50151ff9apfrcu.png)
+ 
+Font → Fira code
+
+Icon → Material Icon Theme
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ccoq6ow2mwp8o50rrgc.png)
+ 
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/384j59j09josws7tlcjs.png)
+
+Other Themes:
+Dark: The Best Theme / Tokyo Night
+Light: Atom One Light / Winter is coming (light)
+Here a list of 50 themes
+
+Other Fonts:
+Hack 
+Input 
+Source Code Pro 
+
+---
+
+### Your Sources<a name="7g"></a>
+
+This article was just published, but feel free to add your own sources / request the insertion of a new part.
+
+* bob-dev requested a C and C++ section
+
+### C and C++<a name="7g1"></a>
+
+{% collapsible C %} 
+
+#### C
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ovfpdc923qe93qntkth6.png) 
+
+[By developer insider](https://developerinsider.co/c-programming-language-cheat-sheet/) 
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vja8xjbnvu3cghx62qzu.png) 
+
+[By course.cs.washington.ed - PDF Version](https://courses.cs.washington.edu/courses/cse351/16wi/sections/1/Cheatsheet-c.pdf) 
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fbjmvtdzcyrds4jjxg9c.png) 
+
+[By dummies.com](https://www.dummies.com/programming/c/c-programming-for-dummies-cheat-sheet/) 
+
+[Go to Top - 🔝](#top)
+{% endcollapsible %} 
+
+---
+
+{% collapsible C++ %}
+#### C++
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otod0axdqss5p3tncy9i.png) 
+
+[By W3school - PDF Version](https://www.w3cschool.cn/attachments/apifiles/C_Cheat.pdf)
+
+-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1hkdfmyp05q4nv21yrod.png) 
+
+[At GitHub](https://github.com/mortennobel/cpp-cheatsheet) 
+
+-
+
+[By dummies.com](https://www.dummies.com/programming/cpp/c-all-in-one-for-dummies-cheat-sheet/) 
+
+[By cppcheatsheet.com](https://cppcheatsheet.com/)
+
+[Go to Top - 🔝](#top)
+
+{% endcollapsible %} 
+
+---<a name="7g2"></a>
+
+<a name="7g2a"></a>
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c35jw6awts53o9grxusn.png)
+ 
+Here at dev.to - [Ultimate Linux Cheat Sheet](https://dev.to/forcommunity/ultimate-linux-cheat-sheet-4gm5) - By Justin Varghese
+
+---
+
+Ps: [I add the web dev checklist!](https://www.toptal.com/developers/webdevchecklist)
 
 Hope this helped!
 
@@ -1264,4 +1704,4 @@ Hope this helped!
 
 ---
 
-**Remember the star**
+**Remember the ⭐**
