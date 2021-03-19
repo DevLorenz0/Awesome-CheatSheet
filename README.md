@@ -13,8 +13,6 @@ Article version: https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-she
 
 Table of content:
 
--- Part 1 -- (This part)
-
 💻 - [Front End](#1) 
 1. [HTML](#1a)
 2. [CSS](#1b)
@@ -1236,7 +1234,7 @@ Table of content:
 
 ## 📱 - Mobile apps<a name="4"></a>
 
-{% collapsible Table of content %} 
+Table of content: 
 1. [Java](#4a)
 2. [Kotlin](#4b)
 3. [Android studio](#4c)
@@ -1634,7 +1632,7 @@ This article was just published, but feel free to add your own sources / request
 
 ### C and C++<a name="7g1"></a>
 
-{% collapsible C %} 
+C: 
 
 #### C
 
@@ -1655,11 +1653,9 @@ This article was just published, but feel free to add your own sources / request
 [By dummies.com](https://www.dummies.com/programming/c/c-programming-for-dummies-cheat-sheet/) 
 
 [Go to Top - 🔝](#top)
-{% endcollapsible %} 
 
 ---
 
-{% collapsible C++ %}
 #### C++
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otod0axdqss5p3tncy9i.png) 
@@ -1679,8 +1675,6 @@ This article was just published, but feel free to add your own sources / request
 [By cppcheatsheet.com](https://cppcheatsheet.com/)
 
 [Go to Top - 🔝](#top)
-
-{% endcollapsible %} 
 
 ---<a name="7g2"></a>
 
